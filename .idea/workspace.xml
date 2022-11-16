@@ -17,9 +17,18 @@
       <change afterPath="$PROJECT_DIR$/../sgf-di/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sgf-di/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vadym/course/controller/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/vadym/course/controller/FirstController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/vadym/course/controller/FirstController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/vadym/course/controller/FirstController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/classes/ua/vadym/course/controller/FirstController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/springMVC/WEB-INF/classes/ua/vadym/course/controller/FirstController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vadym/course/controller/FirstController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vadym/course/controller/SecondController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/bye.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/second/exit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/vadym/course/controller/FirstController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/vadym/course/controller/SecondController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/classes/ua/vadym/course/controller/FirstController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/classes/ua/vadym/course/controller/SecondController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/views/first/bye.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/views/first/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/views/second/exit.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +54,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="people" />
+                    <option name="lastUsedInstant" value="1668576500" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="originAddConfig" />
                     <option name="lastUsedInstant" value="1668515311" />
@@ -200,7 +213,7 @@
       <workItem from="1668427583676" duration="211000" />
       <workItem from="1668429628828" duration="5407000" />
       <workItem from="1668453858240" duration="114000" />
-      <workItem from="1668515202946" duration="5827000" />
+      <workItem from="1668515202946" duration="13229000" />
     </task>
     <servers />
   </component>
