@@ -16,19 +16,22 @@
       <change afterPath="$PROJECT_DIR$/../sgf-di/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sgf-di/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sgf-di/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vadym/course/controller/FirstController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vadym/course/controller/SecondController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/bye.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/second/exit.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/vadym/course/controller/FirstController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/vadym/course/controller/SecondController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/classes/ua/vadym/course/controller/FirstController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/classes/ua/vadym/course/controller/SecondController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/views/first/bye.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/views/first/hello.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/views/second/exit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vadym/course/controller/PeopleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/vadym/course/controller/PeopleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vadym/course/dao/PersoneDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/vadym/course/dao/PersoneDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/vadym/course/models/Persone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/vadym/course/models/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/vadym/course/controller/PeopleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/vadym/course/controller/PeopleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/vadym/course/dao/PersoneDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/vadym/course/dao/PersoneDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/vadym/course/models/Persone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/classes/ua/vadym/course/controller/PeopleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/springMVC/WEB-INF/classes/ua/vadym/course/controller/PeopleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/classes/ua/vadym/course/dao/PersoneDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/springMVC/WEB-INF/classes/ua/vadym/course/dao/PersoneDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/classes/ua/vadym/course/models/Persone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/views/people/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/springMVC/WEB-INF/views/people/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMVC/WEB-INF/views/people/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/springMVC/WEB-INF/views/people/show.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +41,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -54,6 +57,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="nail_course" />
+                    <option name="lastUsedInstant" value="1668762775" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="people" />
                     <option name="lastUsedInstant" value="1668576500" />
@@ -92,28 +99,42 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;f3d3aa98aabc9efd19fc10cd3b05aeab&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/vadym/Desktop/Programming/springMVC/src/main/java/ua/vadym/course/config",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "spring.configuration.checksum": "f3d3aa98aabc9efd19fc10cd3b05aeab"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/ua/vadym/course/config" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="ua.vadym.course.congif" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.68" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.68" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="springMVC:war exploded">
@@ -213,7 +234,13 @@
       <workItem from="1668427583676" duration="211000" />
       <workItem from="1668429628828" duration="5407000" />
       <workItem from="1668453858240" duration="114000" />
-      <workItem from="1668515202946" duration="13229000" />
+      <workItem from="1668515202946" duration="18965000" />
+      <workItem from="1668695643063" duration="2405000" />
+      <workItem from="1668699717914" duration="11931000" />
+      <workItem from="1668758161454" duration="3859000" />
+      <workItem from="1668782458577" duration="4235000" />
+      <workItem from="1668882424204" duration="5275000" />
+      <workItem from="1668936363865" duration="3183000" />
     </task>
     <servers />
   </component>
@@ -230,5 +257,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ua/vadym/course/controller/PeopleController.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
